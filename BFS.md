@@ -1,6 +1,3 @@
-
----
-
 # 📄 BFS METHOD — Markdown
 
 ```md
